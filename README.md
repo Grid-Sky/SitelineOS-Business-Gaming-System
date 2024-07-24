@@ -1,1 +1,1 @@
-# SitelineOS-Business-Gaming-System Check here for latest development updates and information
+# SitelineOS-Business-Gaming-System under development
